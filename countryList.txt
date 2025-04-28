@@ -4,6 +4,7 @@ Morroco
 China
 Afghanistan
 India
+<<<<<<< HEAD
 France
 Haiti
 Malta
@@ -12,3 +13,8 @@ Jamaica
 Japan
 North-korea
 South-Korea
+=======
+Nigeria
+Ghana
+Kazakstan
+>>>>>>> featureA
