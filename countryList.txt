@@ -4,3 +4,7 @@ Morroco
 China
 Afghanistan
 India
+France
+Haiti
+Malta
+Egypt
